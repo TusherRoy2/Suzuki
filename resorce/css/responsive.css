@@ -1,0 +1,287 @@
+@media (max-width: 1300px) {
+  .owl-nav {
+    bottom: 25.5rem;
+    right: 35.5rem;
+  }
+}
+@media (max-width: 1270px) {
+  .owl-nav {
+    bottom: 25.5rem;
+    right: 32.5rem;
+  }
+}
+
+@media (max-width: 1230px) {
+  .owl-nav {
+    bottom: 23.5rem;
+    right: 32.5rem;
+  }
+}
+
+@media (max-width: 1200px) {
+  .owl-nav {
+    bottom: 22.5rem;
+    right: 31.5rem;
+  }
+}
+
+@media (max-width: 1100px) {
+  .nav {
+    padding: 2rem;
+  }
+}
+
+@media (max-width: 1150px) {
+  .owl-nav {
+    bottom: 20.5rem;
+    right: 28.5rem;
+  }
+}
+
+@media (max-width: 1127px) {
+  .owl-nav {
+    bottom: 16.5rem;
+    right: 28.5rem;
+  }
+}
+
+@media (max-width: 1180px) {
+  .owl-nav {
+    bottom: 16.5rem;
+    right: 25.5rem;
+  }
+}
+
+@media (max-width: 1030px) {
+  .owl-nav {
+    bottom: 14.5rem;
+    right: 23.5rem;
+  }
+}
+
+@media (max-width: 1024px) {
+  /* .nav{
+        background: #ffffffa1;
+        backdrop-filter: blur(7px);
+    }
+    .sticky {
+        background: #fff;
+    } */
+  .nav .menu ul {
+    display: none;
+  }
+  .nav .menu > a i.fa-bars {
+    display: block;
+  }
+  .nav .menu {
+    width: 30%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .nav .logo {
+    width: 30%;
+  }
+  .nav .logo img {
+    margin: auto;
+  }
+}
+
+@media (max-width: 991px) {
+  html{
+    font-size: 53.5%;
+  }
+  .fix_2 ul li {
+    margin: 0 1rem;
+  }
+  .owl-nav {
+    bottom: 20.5rem;
+    right: 29.5rem;
+  }
+  .perform b,
+  .perform span{
+    text-align: center;
+  }
+  .footer_social .logo{
+    margin: 3rem 0;
+  }
+}
+
+@media (max-width: 965px) {
+  .owl-nav {
+    bottom: 16.5rem;
+    right: 27.5rem;
+  }
+}
+
+@media (max-width: 910px) {
+  .owl-nav {
+    bottom: 15.5rem;
+    right: 24.5rem;
+  }
+}
+
+@media (max-width: 870px) {
+  .owl-nav {
+    bottom: 13.5rem;
+    right: 22.5rem;
+  }
+}
+
+@media (max-width: 820px) {
+  html {
+    font-size: 50.5%;
+  }
+}
+
+@media (max-width: 800px) {
+  .owl-nav {
+    bottom: 11.5rem;
+    right: 19.5rem;
+  }
+}
+
+@media (max-width: 780px){
+  html {
+    font-size: 56.5%;
+  }
+  #sec_1{
+    flex-direction: column;
+  }
+  #sec_1 .img_bx {
+    width: 100%;
+  }
+  #sec_1 .txt_bx {
+    width: 100%;
+  }
+  .CaroText{
+    flex-direction: column;
+  }
+  .CaroText .img_bx {
+    width: 100%;
+  }
+  .CaroText .txt_bx {
+    width: 100%;
+  }
+  .sec_5{
+    flex-direction: column;
+  }
+  .sec_5 .left {
+    width: 100%;
+    padding: 0 8rem;
+  }
+  .sec_5 .right {
+    width: 100%;
+  }
+  .owl-nav {
+    bottom: 11.5rem;
+    right: 68.5rem;
+  }
+  .sec_6 {
+    margin: 0 2rem 5rem;
+  }
+  .sec_6 .ver_add {
+    display: none;
+  }
+}
+
+@media (max-width: 768px) {
+  .fix_2{
+    display: none;
+  }
+  .fix_2_m{
+    width: 25%;
+    height: 6rem;
+    background: #fff;
+    display: block;
+    position: fixed;
+    right: 10rem;
+    top: 6.5rem;
+    z-index: 999999;
+  }
+  .fix_2_m ul{
+    text-align: center;
+    display: block;
+    padding: 0;
+    margin-bottom: 0;
+    text-align: center;
+  }
+  .fix_2_m ul li{
+    margin: 3rem 1.5rem;
+  }
+  .fix_2_m ul li a{
+    color: #000;
+    font-size: 1.2rem;
+    padding: 1rem 2rem;
+    font-weight: 600;
+  }
+  .banner {
+    flex-direction: column;
+  }
+  .banner .right,
+  .banner .left {
+    width: 100%;
+  }
+  .discover .bx {
+    width: 100%;
+  }
+}
+
+@media (max-width: 750px) {
+  .owl-nav {
+    bottom: 11.5rem;
+    right: 65.5rem;
+  }
+}
+
+@media (max-width: 750px) {
+  .owl-nav {
+    bottom: 11.5rem;
+    right: 61.5rem;
+  }
+  .sec_2 .bx {
+    width: 100%;
+  }
+}
+
+@media (max-width: 678px) {
+  .owl-nav {
+    bottom: 11.5rem;
+    right: 56.5rem;
+  }
+  .sec_2 .txt_bx {
+    flex-direction: column;
+  }
+  .sec_2 .txt_bx h1{
+    width: 100%;
+  }
+  .sec_2 .bxx {
+    width: 100%;
+  }
+
+}
+
+@media (max-width: 580px) {
+  .owl-nav {
+    bottom: 11.5rem;
+    right: 45.5rem;
+  }
+  .sec_6 .ver_ .option_btn button {
+    padding: .8rem 5rem;
+    font-size: 1.7rem;
+  }
+}
+
+@media (max-width: 480px) {
+  .owl-nav {
+    bottom: 11.5rem;
+    right: 34.5rem;
+  }
+}
+
+@media (max-width: 380px) {
+  .owl-nav {
+    bottom: 11.5rem;
+    right: 25.5rem;
+  }
+}
